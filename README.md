@@ -2,6 +2,27 @@
 
 This Hospital Management System (HMS) is designed to streamline the operations of a healthcare facility. It features role-based access control for different user roles such as Admin, Patient, Receptionist, and Doctor. The system allows users to log in and access specific functionalities tailored to their role.
 
+# Table of Contents
+
+1. [Hospital Management System](#hospital-management-system)
+2. [Features](#features)
+   - [Role-Based Access Control](#role-based-access-control)
+3. [Project Output](#project-output)
+   - [Index Page](#index-page)
+   - [Login Page](#login-page)
+   - [Admin Features](#admin-features)
+   - [Patient Features](#patient-features)
+   - [Receptionist Features](#receptionist-features)
+   - [Doctor Features](#doctor-features)
+4. [Technology Stack](#technology-stack)
+   - [Frontend](#frontend)
+   - [Backend](#backend)
+5. [Usage](#usage)
+   - [Index Page](#index-page-1)
+   - [Login](#login)
+   - [Role-Specific Home Pages](#role-specific-home-pages)
+6. [Contribution](#contribution)
+
 ## Features
 
 ### Role-Based Access Control
@@ -81,6 +102,6 @@ This Hospital Management System (HMS) is designed to streamline the operations o
   - Change Password
   - Edit Profile
 
-## Contributing
+## Contribution
 
-For contributions, please contact yasaswini9676@gmail.com.
+© 2024 R Yasaswini
